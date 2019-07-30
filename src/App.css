@@ -1,0 +1,38 @@
+.techspec_container{
+  margin: 130px 130px 0px 130px
+}
+.techspec_btn{
+  border: 5px solid skyblue;
+}
+.tech_fields{
+  position: absolute;
+  left: 330px;
+  padding-left: 4px;
+  font-size: 18px
+}
+.tech_spec{
+  padding: 0px 0px 0px 4px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.displayField {
+  width: 220px;
+}
+.displayTechspec {
+  height: 216px;
+}
+.displayConnection{
+  height: 160px;
+}
+.displaySoftware{
+  height: 190px;
+}
+.displaySecurity{
+height:60px;
+
+}
+.displayFieldSecurity{
+width:400px;
+
+
+}
